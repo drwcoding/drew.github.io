@@ -340,7 +340,6 @@ section {
   background-color: rgb(53, 53, 53); 
 }
 
-
 .skill-percentage {
   position: absolute;
   right: -50px; 
@@ -349,9 +348,6 @@ section {
   color: black;
   line-height: 10px; 
 }
-
-
-
 
 .article-container {
   display: flex;
@@ -373,7 +369,6 @@ article .icon {
   cursor: default;
 }
 
-/* PROJECTS SECTION */
 
 #projects {
   position: relative;
@@ -400,7 +395,7 @@ article .icon {
   border-color: rgb(163, 163, 163);
 }
 
-/* CONTACT */
+
 
 #contact {
   display: flex;
@@ -440,7 +435,6 @@ article .icon {
   height: 2.5rem;
 }
 
-/* FOOTER SECTION */
 
 footer {
   height: 26vh;
@@ -450,8 +444,6 @@ footer {
 footer p {
   text-align: center;
 }
-
-/* BACKGROUND VIDEO */
 
 .back-video {
   position: fixed;
@@ -464,5 +456,5 @@ footer p {
   opacity: 0.8; /* Optional: adjust opacity if needed */
 }
 
-/* Adjust the body to ensure the content is above the video */
+
 
